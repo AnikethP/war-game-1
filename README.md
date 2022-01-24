@@ -3,7 +3,6 @@
 ##### Multiplayer strategy board game developed with Phaser3, Node.js, and Socket.io. 
 
 # How to use 
-#### git clone https://github.com/dianastea/war-game
 #### cd war-game
 #### npm i
 #### npm start
